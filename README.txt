@@ -1,0 +1,2 @@
+Primeiro projeto realizado pelo curso de programação front-end na plataforma DevMedia.
+Foram aplicados conceitos de agrupamentos de tags através de div, inserção de imagem, hierarquia de títulos, parágrafos e hyperlink de telefone.
